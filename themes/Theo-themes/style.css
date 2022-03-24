@@ -1,0 +1,23 @@
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+footer{
+    display: flex;
+    position: relative;
+    top: 250px;
+    justify-content: center;
+}
+#photo_bio{
+    display:flex;
+    position: relative;
+    flex-direction: column;
+    left: 460px;
+}
+p,h2{
+    text-align: center;
+}
+body{
+    background-color: rgba(181, 248, 147, 0.176);
+}
